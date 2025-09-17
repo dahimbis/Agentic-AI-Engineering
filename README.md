@@ -9,6 +9,7 @@ This project involves utilizing various agentic AI tools and will cover the foll
   6. OpenAI Agents SDK
   7. LangGraph
   8. MCP
-  9. No Framework
-  10. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
+  9. RAG
+  10. No Framework
+  11. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
       
