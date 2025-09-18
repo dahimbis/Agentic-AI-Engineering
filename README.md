@@ -13,5 +13,6 @@ This project involves utilizing various agentic AI tools and will cover the foll
   10. HuggingFace Spaces
   11. Prompt Engineering
   12. No Framework
-  13. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
+  13. Asyncio - Lightweight version of multithreading
+  14. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
       
