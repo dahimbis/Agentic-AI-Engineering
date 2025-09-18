@@ -11,6 +11,7 @@ This project involves utilizing various agentic AI tools and will cover the foll
   8. MCP
   9. RAG
   10. HuggingFace Spaces
-  11. No Framework
-  12. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
+  11. Prompt Engineering
+  12. No Framework
+  13. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
       
