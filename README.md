@@ -1,18 +1,25 @@
-## Agentic AI Engineering Course
-This project involves utilizing various agentic AI tools and will cover the following aspects.
+# Agentic AI Engineering Course
 
-  1. Agentic AI,
-  2. LLMs
-  3. CrewAI
-  4. Coder Agents in Docker
-  5. AutoGen
-  6. OpenAI Agents SDK
-  7. LangGraph
-  8. MCP
-  9. RAG
-  10. HuggingFace Spaces
-  11. Prompt Engineering
-  12. No Framework
-  13. Asyncio - Lightweight version of multithreading
-  14. Working with LLM APIs such as OpenAI, Gemini, Llama, Claude AI, Groq, and Open Router api
-      
+This repository explores the use of agentic AI tools and techniques for building intelligent, automated systems. The course covers practical applications and hands-on work with modern frameworks, libraries, and APIs.
+
+## Topics Covered
+1. Agentic AI fundamentals  
+2. Large Language Models (LLMs)  
+3. CrewAI for multi-agent orchestration  
+4. Coder Agents in Docker environments  
+5. AutoGen for agent workflows  
+6. OpenAI Agents SDK  
+7. LangGraph for agent pipelines  
+8. Model Context Protocol (MCP)  
+9. Retrieval-Augmented Generation (RAG)  
+10. Hugging Face Spaces for deployment  
+11. Prompt Engineering strategies  
+12. Building agents without frameworks  
+13. Asyncio for lightweight concurrency  
+14. Working with LLM APIs:
+   - OpenAI  
+   - Gemini  
+   - LLaMA  
+   - Claude AI  
+   - Groq  
+   - OpenRouter API  
