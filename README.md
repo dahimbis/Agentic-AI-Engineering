@@ -19,7 +19,16 @@ This repository explores the use of agentic AI tools and techniques for building
 14. Working with LLM APIs:
    - OpenAI  
    - Gemini  
-   - LLaMA  
-   - Claude AI  
-   - Groq  
-   - OpenRouter API  
+   - LLaMA
+   - Groq
+   - DeepSeek
+   - Claude AI
+   - OpenRouter
+15. Working with other APIs and platforms:
+   - Sendgrid
+   - Pushover
+   - HuggingFace
+   - Gradio
+   - UV
+  
+   
