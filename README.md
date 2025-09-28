@@ -1,4 +1,4 @@
-# Agentic AI Engineering Course
+I# Agentic AI Engineering Course
 
 This repository explores the use of agentic AI tools and techniques for building intelligent, automated systems. The course covers practical applications and hands-on work with modern frameworks, libraries, and APIs.
 
@@ -30,5 +30,7 @@ This repository explores the use of agentic AI tools and techniques for building
    - HuggingFace
    - Gradio
    - UV
+   - Cursor IDE
+
   
    
