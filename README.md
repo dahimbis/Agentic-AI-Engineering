@@ -37,7 +37,11 @@ Some of the wonderful projects done:
 - Personal Chatbot
 - Sponsorship Aget
 - Job Search Agent
-- AI-powered resume analyzer 
+- AI-powered resume analyzer
+- Stock Picker
+- Financial Analyst
+- Business Analyst
+- Software Engineer
 
   
    
