@@ -1,4 +1,4 @@
-I# Agentic AI Engineering Course
+# The Complete Agentic AI Engineering Course (2025)
 
 This repository explores the use of agentic AI tools and techniques for building intelligent, automated systems. The course covers practical applications and hands-on work with modern frameworks, libraries, and APIs.
 
