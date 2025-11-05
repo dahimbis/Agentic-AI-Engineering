@@ -30,6 +30,7 @@ This repository explores the use of agentic AI tools and techniques for building
    - HuggingFace
    - Gradio
    - UV
+   - Codex
    - Cursor IDE
 
 Some of the wonderful projects done:
