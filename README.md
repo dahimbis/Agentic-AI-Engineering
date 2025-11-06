@@ -9,14 +9,15 @@ This repository explores the use of agentic AI tools and techniques for building
 4. Coder Agents in Docker environments  
 5. AutoGen for agent workflows  
 6. OpenAI Agents SDK  
-7. LangGraph for agent pipelines  
-8. Model Context Protocol (MCP)  
-9. Retrieval-Augmented Generation (RAG)  
-10. Hugging Face Spaces for deployment  
-11. Prompt Engineering strategies  
-12. Building agents without frameworks  
-13. Asyncio for lightweight concurrency  
-14. Working with LLM APIs:
+7. LangGraph for agent pipelines
+8. LangChain
+9. Model Context Protocol (MCP)  
+10. Retrieval-Augmented Generation (RAG)  
+11. Hugging Face Spaces for deployment  
+12. Prompt Engineering strategies  
+13. Building agents without frameworks  
+14. Asyncio for lightweight concurrency  
+15. Working with LLM APIs:
    - OpenAI  
    - Gemini  
    - LLaMA
