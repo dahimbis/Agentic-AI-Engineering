@@ -33,6 +33,7 @@ This repository explores the use of agentic AI tools and techniques for building
    - UV
    - Codex
    - Cursor IDE
+   - Kiro
 
 Some of the wonderful projects done:
 - AI Coder Aget
