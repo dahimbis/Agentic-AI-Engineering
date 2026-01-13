@@ -34,6 +34,8 @@ This repository explores the use of agentic AI tools and techniques for building
    - Codex
    - Cursor IDE
    - Kiro
+   - N8N
+     
 
 Some of the wonderful projects done:
 - AI Coder Aget
