@@ -35,6 +35,7 @@ This repository explores the use of agentic AI tools and techniques for building
    - Cursor IDE
    - Kiro
    - N8N
+   - Zapier
      
 
 Some of the wonderful projects done:
